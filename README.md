@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chrilars
-- 👀 I’m interested in Stuff
-- 🌱 I’m currently learning Stuff
-- 💞️ I’m looking to collaborate on Stuff (or maybe not)
-- 📫 How to reach me here?
+- 👀 I’m interested in Linux (and stuff)
+- 🌱 I’m currently learning hmm? huh?
+- 💞️ I’m looking to collaborate on nothin right now.
+- 📫 How to reach me here? I dunno
 
 <!---
 chrilars/chrilars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
